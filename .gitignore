@@ -1,2 +1,7 @@
 /target
 /.idea
+/.settings
+/out
+.classpath
+.project
+aerodescuentos-1.0.0.jar
